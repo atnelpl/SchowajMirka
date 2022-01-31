@@ -9,7 +9,11 @@ Wiec dla uzytkownikow, ktorzy nie maja checi ogladania Mirka chwili dluzej, niz 
 
 [HKEY_USERS\...\SOFTWARE\ATBespTerminal\frm_reklama]
 "maximized"="0"
+
 "Width"="222"      <- zmniejszenie nie dziala
+
 "Height"="151"     <- zmniejszenie nie dziala
+
 "Top"="2000"       <- ale mozna okienko ustawic tak, aby pojawialo sie poza ekranem
+
 "Left"="2000"
